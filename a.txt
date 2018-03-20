@@ -2,8 +2,6 @@ feature A third commit
 add feat b first commit
 feat b second commit
 featC first commit
------------------
-------------
 11
 22
 33
